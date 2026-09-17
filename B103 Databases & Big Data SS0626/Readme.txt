@@ -1,5 +1,16 @@
 # Hotel Reservation System
 
+---
+
+A short demonstration video showing the Hotel Reservation System is available here:
+
+**Video: 
+https://gismauniversity-my.sharepoint.com/:v:/g/personal/aditya_kumar_gisma-student_com/IQDp8tDwx37jQrrT_7c1WuxcAW4YMMKqTcEAM3bmFw9xMQs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OpwQhB
+
+The demonstration covers the database structure, sample data and selected SQL queries.
+
+---
+
 ## B103 – Databases & Big Data
 
 A relational **Hotel Reservation System** developed using SQL as part of the B103 Databases & Big Data individual project at Gisma University of Applied Sciences.
@@ -111,14 +122,6 @@ Payments
 * **Dbeaver**
 * **MariaDB**
 * **GitHub**
-
----
-
-A short demonstration video showing the Hotel Reservation System is available here:
-
-**Video:** 
-
-The demonstration covers the database structure, sample data and selected SQL queries.
 
 ---
 

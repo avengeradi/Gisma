@@ -1,0 +1,7 @@
+payment_id,member_id,amount,status
+PAY101,M001,50.0,Paid
+PAY102,M002,50.0,Paid
+PAY103,M003,75.0,Pending
+PAY104,M004,50.0,Failed
+PAY105,M005,150.0,Paid
+PAY106,M006,75.0,Paid

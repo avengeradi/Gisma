@@ -10,6 +10,12 @@ https://gismauniversity-my.sharepoint.com/:v:/g/personal/aditya_kumar_gisma-stud
 The demonstration covers the database structure, sample data and selected SQL queries.
 
 ---
+## Project Report
+
+The complete B103 project report is available in the repository:
+Path for that :- `Gisma/B103 Databases & Big Data SS0626/B100 Submission.pdf'
+
+---
 
 ## B103 – Databases & Big Data
 
@@ -122,27 +128,6 @@ Payments
 * **Dbeaver**
 * **MariaDB**
 * **GitHub**
-
----
-
-## Project Report
-
-The complete B103 project report is available in the repository:
-
-**Report:** `Gisma/B103_Project_Report.pdf`
-
----
-
-## Author
-
-**Name: Aditya Kumar
-**Student ID: Gh1039641
-**University: Gisma University of Applied Sciences
-**Module: B103 Databases & Big Data
-**Module Tutor: Ramin Baghaei Mehr
-
----
-
 ## Academic Project
 
 This repository was created for the **B103 Databases & Big Data**

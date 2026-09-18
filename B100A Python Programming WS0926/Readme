@@ -1,1 +1,124 @@
+Gisma
+│
+└── B103 Databases & Big Data SS0626/
+  ├── Gym_manager_file.py
+  ├── interactive.py
+  ├── Gym_members.py
+  ├── Trainers.py
+  ├── Workout_plans.py
+  ├── Payments.py
+  │
+  └── data/
+      ├── members.csv
+      ├── trainers.csv
+      ├── workout_plans.csv
+      └── payments.csv
 
+---
+
+How to Run the Project
+
+1. Download the repository.
+2. Open the Gym Management System folder.
+3. Make sure the data folder is located inside the project folder where all the python programs are.
+4. Run the interactive.py file.
+
+Example:
+python interactive.py
+The main menu will then be displayed:
+
+--- Gym Management System ---
+1. Member Management
+2. Trainer Management
+3. Workout Plan Management
+4. Payment Management
+5. Exit
+
+---
+
+# Gym management System
+
+Project Report
+
+The complete project report is available in the repository:
+
+Path: 'Gisma/B100A Python Programming WS0926'
+
+A simple Gym Management System developed using Python as part of a Bachelor's programming project at Gisma University of Applied Sciences.
+
+The purpose of this project is to create a simple management system that can store and manage information about gym members, trainers, workout plans and payments.
+
+---
+
+Member Management
+Functions include:
+
+Register a new member
+View all members
+Search for a member
+Update member contact information
+Assign a trainer to a member
+
+Example information includes:
+Member ID
+Member name
+Email
+Phone number
+Assigned trainer
+Trainer Management
+
+Functions include:
+Add a trainer
+View trainers
+Assign members to trainers
+View the number of clients assigned to a trainer
+
+Example information includes:
+Trainer ID
+Trainer name
+Assigned clients
+Workout Plan Management
+
+Functions include:
+Create a workout plan
+Add exercises
+View workout plans
+Update workout difficulty
+Remove exercises
+
+Example information includes:
+
+Plan ID
+Plan name
+Difficulty level
+Exercises
+Payment Management
+
+Functions include:
+Record a payment
+View payments
+Check payment status
+Mark payments as completed or failed
+Update payment amounts
+
+Example information includes:
+
+Payment ID
+Member ID
+Payment amount
+Payment status
+
+---
+
+The project demonstrates the use of Python programming concepts including:
+
+Classes and objects
+Functions and methods
+Dictionaries
+Lists
+Loops and conditional statements
+CSV file handling
+Basic exception handling
+Modular programming
+
+The project demonstrates the development of a simple real-world Gym Management System using Python.

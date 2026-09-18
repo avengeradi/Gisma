@@ -1,6 +1,6 @@
 Gisma/
 └── B103 Databases & Big Data SS0626
-    ├── B100 Submission.pdf
+    ├── B103 Submission.pdf
     ├── Hotel_reservation.sql
     └── Readme.txt
 
